@@ -1,4 +1,5 @@
-# Developing evolutionary architecture with AWS Lambda
+# Developing evolutionary architecture with AWS Lambda 
+Arquitectura Hexagonal con Funciones Lambda
 
 ## Context
 Agility enables you to evolve a workload quickly, adding new features, or introducing new infrastructure as required. The key characteristics for achieving agility in a code base are loosely coupled components and strong encapsulation.
@@ -145,3 +146,5 @@ Where possible, please also submit a pull request for the change.
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
+
+Basado en el trabajo de [Developing evolutionary architecture with AWS Lambda]()
