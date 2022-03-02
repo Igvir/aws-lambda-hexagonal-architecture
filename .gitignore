@@ -1,3 +1,6 @@
+# build pack
+.aws-sam 
+
 # compiled output
 /dist
 /tmp
@@ -26,6 +29,7 @@ coverage
 *.launch
 .settings/
 *.sublime-workspace
+.vscode 
 
 # IDE - VSCode
 .vscode/*
